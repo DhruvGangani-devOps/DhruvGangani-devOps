@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/prabhat kambaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabhat kambaliya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prabhat kambaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhat kambaliya" height="30" width="40" /></a>
-<a href="https://instagram.com/prabhat.kambaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabhat.kambaliya" height="30" width="40" /></a>
+<a href="https://twitter.com/dhruvgangani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dhruv Gangani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Dhruv Gangani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhruv Gangani" height="30" width="40" /></a>
+<a href="https://instagram.com/dhruv._.gangani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruv._.gangani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
