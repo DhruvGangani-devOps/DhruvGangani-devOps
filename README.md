@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)
-<h1 align="center">Hi 👋, I'm Prabhat Kambaliya</h1>
-<h3 align="center">A passionate student from Dr. Subhash University, Gujarat</h3>
+<h1 align="center">Hi 👋, I'm Dhruv Gangani</h1>
+<h3 align="center">A passionate student from Saurashtra University, Gujarat</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
